@@ -1,0 +1,976 @@
+date,state,item,price_ngn,markets_surveyed
+2025-11-01,Anambra,Beans (1kg),2708.4,31.0
+2023-06-01,Kano,Tomatoes (basket),8871.24,25.0
+2024-06-01,Oyo,Garri (1kg),711.89,14.0
+2025-07-01,Enugu,Vegetable oil (1L),3734.86,37.0
+2023-09-01,Anambra,Vegetable oil (1L),2428.03,
+2025-01-01,Abuja FCT,Eggs (crate),4623.09,5.0
+2023-10-01,Abuja FCT,Beans (1kg),1268.79,23.0
+2025-10-01,Kaduna,Vegetable oil (1L),4263.18,34.0
+2025-01-01,Abuja FCT,Tomatoes (basket),19609.06,17.0
+2023-06-01,Kano,Rice (1kg),1038.35,32.0
+2024-05-01,Kaduna,Vegetable oil (1L),2638.54,19.0
+2023-11-01,Enugu,Beans (1kg),1582.16,13.0
+2023-08-01,Enugu,Vegetable oil (1L),2162.41,9.0
+2023-12-01,Kano,Garri (1kg),669.26,19.0
+2023-04-01,Enugu,Vegetable oil (1L),1857.29,23.0
+2024-12-01,Abuja FCT,Rice (1kg),1695.3,12.0
+2025-04-01,Kaduna,Vegetable oil (1L),2992.91,8.0
+2025-10-01,Oyo,Rice (1kg),2069.98,8.0
+2023-03-01,Kaduna,Vegetable oil (1L),2104.09,8.0
+2025-06-01,Lagos,Rice (1kg),2093.17,14.0
+2023-04-01,Abuja FCT,Rice (1kg),1070.62,29.0
+2025-07-01,Lagos,Garri (1kg),1239.35,12.0
+2023-07-01,Oyo,Vegetable oil (1L),2157.15,23.0
+2024-05-01,Lagos,Garri (1kg),843.72,38.0
+2024-01-01,Anambra,Tomatoes (basket),11218.76,33.0
+2025-11-01,Rivers,Garri (1kg),1110.32,13.0
+2025-04-01,Oyo,Garri (1kg),1065.64,16.0
+2024-12-01,Kaduna,Beans (1kg),2057.13,22.0
+2023-05-01,Anambra,Vegetable oil (1L),2192.0,14.0
+2023-01-01,Kaduna,Beans (1kg),1114.76,18.0
+2023-08-01,Rivers,Vegetable oil (1L),2346.44,13.0
+2025-01-01,Anambra,Vegetable oil (1L),3388.05,22.0
+2025-08-01,Rivers,Tomatoes (basket),15365.75,39.0
+2024-11-01,Oyo,Garri (1kg),859.07,30.0
+2024-08-01,Anambra,Rice (1kg),1429.02,14.0
+2025-01-01,Kano,Vegetable oil (1L),3237.09,32.0
+2024-09-01,Kaduna,Garri (1kg),755.63,23.0
+2024-09-01,Kano,Vegetable oil (1L),2717.36,10.0
+2025-12-01,Anambra,Eggs (crate),5465.25,7.0
+2023-03-01,Oyo,Garri (1kg),510.05,9.0
+2023-09-01,Lagos,Tomatoes (basket),9151.77,28.0
+2024-06-01,Kano,Eggs (crate),3269.09,36.0
+2024-07-01,Oyo,Tomatoes (basket),12115.82,31.0
+2025-06-01,Kaduna,Vegetable oil (1L),3312.43,15.0
+2024-01-01,Kano,Vegetable oil (1L),2522.27,20.0
+2025-08-01,Rivers,Eggs (crate),4406.42,27.0
+2025-02-01,Lagos,Beans (1kg),2321.23,20.0
+2023-03-01,LAGOS,Vegetable oil (1L),1952.18,15.0
+2023-08-01,Kano,Beans (1kg),1195.86,18.0
+2025-01-01,Oyo,Rice (1kg),1703.24,28.0
+2024-11-01,Oyo,Eggs (crate),3291.97,23.0
+2023-01-01,Enugu,Garri (1kg),489.95,25.0
+2023-11-01,Anambra,Beans (1kg),1418.17,5.0
+2024-05-01,Enugu,Rice (1kg),1262.99,11.0
+2024-01-01,Anambra,Vegetable oil (1L),2385.88,14.0
+2023-02-01,Oyo,Tomatoes (basket),9505.74,27.0
+2023-11-01,Kaduna,Eggs (crate),2791.27,30.0
+2024-09-01,Lagos,Tomatoes (basket),12286.48,9.0
+2024-09-01,Kano,Rice (1kg),1429.05,29.0
+2024-10-01,Oyo,Rice (1kg),1410.2,12.0
+2025-10-01,Kano,Garri (1kg),1083.51,28.0
+2024-04-01,Abuja FCT,Garri (1kg),818.84,9.0
+2023-10-01,Kaduna,Vegetable oil (1L),2179.98,32.0
+2025-12-01,Kaduna,Eggs (crate),4826.71,33.0
+2023-07-01,Anambra,Rice (1kg),1144.62,24.0
+2023-12-01,Enugu,Eggs (crate),2760.28,29.0
+2024-07-01,Enugu,Tomatoes (basket),10728.11,
+2025-03-01,Abuja FCT,Vegetable oil (1L),,10.0
+2023-08-01,Rivers,Rice (1kg),1030.04,5.0
+2023-09-01,Abuja FCT,Tomatoes (basket),,11.0
+2024-12-01,Abuja FCT,Beans (1kg),1995.17,26.0
+2024-06-01,LAGOS,Tomatoes (basket),11581.72,31.0
+2025-06-01,Oyo,Vegetable oil (1L),3325.07,27.0
+2025-02-01,Lagos,Eggs (crate),4287.78,37.0
+2023-08-01,Rivers,Eggs (crate),2551.52,29.0
+2023-09-01,Kaduna,Eggs (crate),,14.0
+2023-03-01,Oyo,Rice (1kg),997.53,25.0
+2025-03-01,Abuja FCT,Tomatoes (basket),20180.09,19.0
+2025-06-01,Kaduna,Beans (1kg),2357.41,19.0
+2024-10-01,Rivers,Beans (1kg),1747.7,19.0
+2024-04-01,Abuja FCT,Tomatoes (basket),13641.44,35.0
+2024-12-01,Rivers,Garri (1kg),847.35,24.0
+2024-04-01,Lagos,Vegetable oil (1L),,12.0
+2024-09-01,Abuja FCT,Tomatoes (basket),12576.71,8.0
+2023-08-01,Anambra,Rice (1kg),1087.3,30.0
+2023-07-01,Lagos,Garri (1kg),700.17,38.0
+2024-11-01,Rivers,Beans (1kg),2022.01,30.0
+2023-09-01,Anambra,Garri (1kg),576.56,
+2025-09-01,Kano,Vegetable oil (1L),3779.74,21.0
+2023-12-01,Lagos,Beans (1kg),1617.12,18.0
+2024-08-01,Oyo,Rice (1kg),1463.13,19.0
+2025-07-01,Kaduna,Beans (1kg),2295.15,30.0
+2024-01-01,Abuja FCT,Beans (1kg),1620.77,
+2023-09-01,Lagos,Garri (1kg),720.45,25.0
+2023-01-01,Kano,Eggs (crate),2179.6,31.0
+2024-07-01,Rivers,Tomatoes (basket),11968.96,20.0
+2025-07-01,Anambra,Eggs (crate),4956.0,12.0
+2023-07-01,Abuja FCT,Rice (1kg),1161.17,14.0
+2025-02-01,Rivers,Eggs (crate),4256.37,34.0
+2025-08-01,Kaduna,Tomatoes (basket),15388.86,34.0
+2024-01-01,Anambra,Eggs (crate),3160.01,
+2025-09-01,Rivers,Garri (1kg),1139.79,23.0
+2025-08-01,Oyo,Rice (1kg),1948.35,27.0
+2025-07-01,Rivers,Beans (1kg),2200.56,22.0
+2025-12-01,Enugu,Vegetable oil (1L),4461.26,9.0
+2024-04-01,Kano,Rice (1kg),1212.95,37.0
+2025-09-01,Anambra,Vegetable oil (1L),3929.84,33.0
+2025-02-01,Abuja FCT,Rice (1kg),1714.31,6.0
+2024-12-01,Kano,Garri (1kg),877.32,7.0
+2024-02-01,Rivers,Rice (1kg),1067.99,31.0
+2023-11-01,Anambra,Tomatoes (basket),9865.23,33.0
+2024-05-01,Abuja FCT,Beans (1kg),1748.83,14.0
+2025-10-01,Kaduna,Beans (1kg),2385.87,27.0
+2025-06-01,Anambra,Vegetable oil (1L),3751.92,35.0
+2025-07-01,Oyo,Tomatoes (basket),,33.0
+2024-03-01,Abuja FCT,Garri (1kg),774.82,23.0
+2024-03-01,Kano,Beans (1kg),1306.98,36.0
+2025-04-01,Abuja FCT,Beans (1kg),2294.35,21.0
+2025-12-01,Anambra,Beans (1kg),2729.31,5.0
+2025-01-01,Enugu,Beans (1kg),2012.66,31.0
+2024-09-01,Lagos,Vegetable oil (1L),3251.77,19.0
+2025-02-01,Oyo,Eggs (crate),4026.03,7.0
+2025-02-01,Abuja FCT,Eggs (crate),4237.95,19.0
+2024-05-01,Lagos,Eggs (crate),3557.01,14.0
+2024-04-01,Oyo,Tomatoes (basket),11571.11,21.0
+2025-06-01,Kaduna,Garri (1kg),993.3,8.0
+2025-08-01,Anambra,Vegetable oil (1L),4003.92,17.0
+2024-01-01,Rivers,Eggs (crate),3031.75,13.0
+2023-09-01,Anambra,Tomatoes (basket),8055.15,13.0
+2024-07-01,Rivers,Rice (1kg),1417.34,5.0
+2024-05-01,Kano,Tomatoes (basket),11896.87,
+2023-03-01,Kaduna,Beans (1kg),1167.93,34.0
+2025-06-01,Kaduna,Rice (1kg),1894.84,20.0
+2025-09-01,Enugu,Eggs (crate),5408.09,27.0
+2024-01-01,Lagos,Tomatoes (basket),13332.1,30.0
+2023-06-01,Rivers,Eggs (crate),2485.24,39.0
+2023-07-01,Abuja FCT,Vegetable oil (1L),2394.62,32.0
+2025-08-01,Rivers,Beans (1kg),2421.81,33.0
+2025-08-01,Lagos,Tomatoes (basket),16709.93,38.0
+2025-08-01,Enugu,Beans (1kg),2247.01,14.0
+2024-08-01,Enugu,Garri (1kg),773.82,31.0
+2024-03-01,Rivers,Tomatoes (basket),13085.28,6.0
+2023-10-01,Kano,Tomatoes (basket),9682.73,9.0
+2024-10-01,Anambra,Beans (1kg),1674.48,12.0
+2025-06-01,Oyo,Rice (1kg),1901.68,11.0
+2023-11-01,Rivers,Eggs (crate),2631.45,39.0
+2023-03-01,Enugu,Garri (1kg),504.69,21.0
+2023-12-01,Kaduna,Eggs (crate),2834.18,6.0
+2023-06-01,Abuja FCT,Tomatoes (basket),9063.27,
+2025-09-01,Abuja FCT,Rice (1kg),2061.91,26.0
+2023-04-01,Kano,Garri (1kg),548.67,22.0
+2025-02-01,Enugu,Beans (1kg),2256.93,20.0
+2024-01-01,Anambra,Tomatoes (basket),11218.76,33.0
+2025-09-01,Anambra,Eggs (crate),4919.07,13.0
+2023-08-01,Lagos,Vegetable oil (1L),2416.88,6.0
+2023-06-01,Kano,Garri (1kg),554.07,19.0
+2025-07-01,Lagos,Tomatoes (basket),18432.01,18.0
+2025-06-01,Abuja FCT,Eggs (crate),5065.6,11.0
+2023-09-01,Abuja FCT,Rice (1kg),1217.66,37.0
+2025-10-01,Enugu,Tomatoes (basket),16191.75,29.0
+2025-09-01,Rivers,Rice (1kg),1915.21,28.0
+2024-05-01,Abuja FCT,Rice (1kg),1490.55,37.0
+2023-01-01,Lagos,Beans (1kg),1068.35,35.0
+2025-04-01,Abuja FCT,Tomatoes (basket),20034.77,11.0
+2023-04-01,Anambra,Vegetable oil (1L),1946.78,21.0
+2023-06-01,Anambra,Beans (1kg),1425.29,20.0
+2024-08-01,Rivers,Garri (1kg),805.49,10.0
+2025-06-01,Anambra,Rice (1kg),1981.7,20.0
+2024-10-01,Abuja FCT,Eggs (crate),4089.33,16.0
+2024-02-01,Abuja FCT,Vegetable oil (1L),2852.3,21.0
+2025-10-01,Lagos,Garri (1kg),,5.0
+2023-05-01,Enugu,Garri (1kg),579.08,5.0
+2025-02-01,Kano,Tomatoes (basket),16423.68,11.0
+2023-11-01,Rivers,Tomatoes (basket),9610.07,8.0
+2025-05-01,Enugu,Tomatoes (basket),17704.48,26.0
+2023-07-01,Rivers,Eggs (crate),2589.24,22.0
+2024-06-01,Oyo,Eggs (crate),3110.26,31.0
+2025-01-01,Anambra,Beans (1kg),1888.52,18.0
+2024-10-01,Lagos,Vegetable oil (1L),3479.06,27.0
+2024-09-01,Kaduna,Beans (1kg),,28.0
+2025-09-01,Abuja FCT,Eggs (crate),5357.22,28.0
+2025-09-01,Kano,Beans (1kg),2425.7,26.0
+2025-05-01,Kano,Eggs (crate),4419.29,34.0
+2025-01-01,Kano,Tomatoes (basket),16278.9,37.0
+2024-09-01,Abuja FCT,Beans (1kg),1762.39,11.0
+2024-12-01,Enugu,Eggs (crate),3894.67,13.0
+2023-07-01,Kaduna,Garri (1kg),561.97,34.0
+2025-02-01,Anambra,Vegetable oil (1L),3525.83,26.0
+2023-10-01,Rivers,Vegetable oil (1L),2253.92,9.0
+2025-04-01,Enugu,Beans (1kg),2076.12,30.0
+2024-06-01,Abuja FCT,Rice (1kg),1257.88,35.0
+2024-08-01,Kano,Tomatoes (basket),11337.26,34.0
+2025-10-01,Anambra,Beans (1kg),2660.38,26.0
+2024-02-01,Kaduna,Garri (1kg),,24.0
+2024-10-01,Anambra,Tomatoes (basket),11218.94,29.0
+2023-12-01,Kano,Vegetable oil (1L),,30.0
+2023-06-01,Kaduna,Vegetable oil (1L),2353.95,38.0
+2025-07-01,Kaduna,Rice (1kg),1821.53,33.0
+2023-10-01,LAGOS,Garri (1kg),751.23,20.0
+2025-09-01,Lagos,Garri (1kg),1245.92,24.0
+2024-02-01,Rivers,Tomatoes (basket),12678.25,31.0
+2023-04-01,Oyo,Garri (1kg),543.37,9.0
+2025-11-01,Enugu,Vegetable oil (1L),3780.54,5.0
+2024-10-01,Kaduna,Eggs (crate),3759.35,26.0
+2025-04-01,Anambra,Tomatoes (basket),15444.32,28.0
+2023-11-01,Rivers,Rice (1kg),1021.3,
+2025-07-01,Enugu,Tomatoes (basket),16027.5,22.0
+2024-09-01,Kano,Eggs (crate),,35.0
+2023-03-01,Rivers,Rice (1kg),936.29,37.0
+2023-01-01,Enugu,Rice (1kg),885.14,13.0
+2025-01-01,Anambra,Rice (1kg),1621.65,7.0
+2025-02-01,Kano,Eggs (crate),4597.76,6.0
+2024-10-01,Lagos,Tomatoes (basket),13628.9,16.0
+2025-05-01,Rivers,Tomatoes (basket),17001.5,27.0
+2025-07-01,LAGOS,Rice (1kg),1810.9,12.0
+2024-08-01,Abuja FCT,Beans (1kg),1877.1,13.0
+2023-12-01,Enugu,Vegetable oil (1L),2478.49,
+2023-01-01,Abuja FCT,Tomatoes (basket),8693.72,33.0
+2024-08-01,Kano,Rice (1kg),1230.38,19.0
+2023-10-01,Kaduna,Tomatoes (basket),8844.07,6.0
+2023-07-01,Anambra,Eggs (crate),2471.63,35.0
+2024-06-01,LAGOS,Eggs (crate),3413.51,18.0
+2025-04-01,Oyo,Rice (1kg),1523.05,36.0
+2024-05-01,Anambra,Garri (1kg),715.83,30.0
+2024-08-01,Abuja FCT,Eggs (crate),3340.48,36.0
+2023-12-01,Rivers,Beans (1kg),1637.53,6.0
+2024-04-01,Anambra,Beans (1kg),1675.52,24.0
+2024-05-01,Anambra,Tomatoes (basket),12509.13,7.0
+2025-01-01,Enugu,Vegetable oil (1L),3319.02,38.0
+2023-04-01,Anambra,Garri (1kg),517.37,25.0
+2023-12-01,Anambra,Eggs (crate),2941.33,14.0
+2024-05-01,Enugu,Tomatoes (basket),13151.7,30.0
+2024-04-01,enugu,Tomatoes (basket),13041.31,12.0
+2025-03-01,Oyo,Vegetable oil (1L),3013.32,34.0
+2024-01-01,Lagos,Garri (1kg),741.29,38.0
+2025-03-01,Kano,Beans (1kg),1792.16,25.0
+2025-01-01,Oyo,Garri (1kg),861.05,31.0
+2023-04-01,oyo,Rice (1kg),984.54,39.0
+2023-03-01,Anambra,Rice (1kg),964.94,11.0
+2025-04-01,Kano,Garri (1kg),1135.61,13.0
+2025-12-01,Abuja FCT,Vegetable oil (1L),5266.55,24.0
+2025-06-01,Kaduna,Eggs (crate),3938.88,36.0
+2023-02-01,Kano,Rice (1kg),944.63,22.0
+2023-01-01,Rivers,Vegetable oil (1L),1744.68,36.0
+2024-01-01,Anambra,Rice (1kg),1111.94,36.0
+2023-07-01,Abuja FCT,Tomatoes (basket),8927.41,
+2025-06-01,Anambra,Beans (1kg),2117.19,29.0
+2025-02-01,Abuja FCT,Garri (1kg),1036.63,22.0
+2024-06-01,Kaduna,Vegetable oil (1L),3067.17,11.0
+2024-03-01,Kano,Rice (1kg),1234.36,33.0
+2023-11-01,Lagos,Tomatoes (basket),9358.24,18.0
+2025-04-01,Enugu,Rice (1kg),1724.23,36.0
+2023-06-01,Abuja FCT,Garri (1kg),609.74,34.0
+2024-07-01,Lagos,Rice (1kg),1522.14,36.0
+2024-01-01,Kaduna,Rice (1kg),1315.35,13.0
+2023-03-01,Abuja FCT,Beans (1kg),1137.18,19.0
+2025-11-01,Kaduna,Tomatoes (basket),18080.58,9.0
+2025-03-01,Oyo,Garri (1kg),877.28,37.0
+2024-06-01,Anambra,Rice (1kg),1534.51,29.0
+2023-01-01,LAGOS,Eggs (crate),2429.59,19.0
+2025-04-01,Enugu,Tomatoes (basket),18360.92,25.0
+2023-08-01,Rivers,Tomatoes (basket),9217.91,13.0
+2023-05-01,Rivers,Rice (1kg),949.11,38.0
+2023-08-01,Kaduna,Eggs (crate),2905.04,17.0
+2024-03-01,Kano,Vegetable oil (1L),2360.94,11.0
+2023-07-01,Kaduna,Rice (1kg),996.54,9.0
+2024-04-01,Lagos,Garri (1kg),804.67,35.0
+2023-08-01,Oyo,Eggs (crate),2724.82,23.0
+2024-05-01,Abuja FCT,Garri (1kg),871.39,39.0
+2025-10-01,Enugu,Eggs (crate),5515.4,8.0
+2023-05-01,Rivers,Eggs (crate),2398.5,38.0
+2023-07-01,Enugu,Tomatoes (basket),9007.86,11.0
+2023-12-01,Abuja FCT,Vegetable oil (1L),2656.98,36.0
+2023-01-01,LAGOS,Tomatoes (basket),7884.1,28.0
+2023-10-01,Kaduna,Rice (1kg),1210.79,31.0
+2025-10-01,Oyo,Garri (1kg),1106.9,32.0
+2024-08-01,Oyo,Vegetable oil (1L),2752.22,26.0
+2025-10-01,Anambra,Tomatoes (basket),17574.04,18.0
+2024-02-01,Enugu,Beans (1kg),1370.77,14.0
+2024-05-01,Rivers,Beans (1kg),1692.0,6.0
+2025-12-01,Abuja FCT,Tomatoes (basket),"₦22,549",11.0
+2024-09-01,Enugu,Beans (1kg),1933.65,37.0
+2024-12-01,Rivers,Tomatoes (basket),14129.32,19.0
+2023-05-01,Enugu,Tomatoes (basket),9211.03,36.0
+2023-04-01,Oyo,Beans (1kg),1163.81,30.0
+2024-04-01,Lagos,Rice (1kg),1319.71,35.0
+2023-05-01,kaduna,Tomatoes (basket),8988.33,
+2024-11-01,Lagos,Garri (1kg),915.36,11.0
+2023-07-01,Lagos,Rice (1kg),1194.13,12.0
+2023-05-01,Lagos,Rice (1kg),1131.52,25.0
+2025-02-01,Enugu,Eggs (crate),4099.72,27.0
+2025-05-01,Lagos,Beans (1kg),2145.99,17.0
+2025-10-01,Enugu,Beans (1kg),2487.72,9.0
+2024-03-01,Kaduna,Garri (1kg),689.02,33.0
+2025-03-01,Kaduna,Garri (1kg),989.91,34.0
+2025-03-01,Abuja FCT,Eggs (crate),4614.14,8.0
+2023-12-01,Abuja FCT,Tomatoes (basket),11286.68,19.0
+2024-07-01,Kano,Rice (1kg),1350.77,28.0
+2023-03-01,Kaduna,Eggs (crate),2271.52,20.0
+2023-01-01,Lagos,Garri (1kg),554.22,30.0
+2025-12-01,Lagos,Garri (1kg),1198.89,6.0
+2024-03-01,Oyo,Beans (1kg),1556.75,27.0
+2024-08-01,Rivers,Eggs (crate),3370.11,25.0
+2023-01-01,Oyo,Beans (1kg),1045.58,24.0
+2024-01-01,Abuja FCT,Eggs (crate),3040.35,6.0
+2025-08-01,Anambra,Beans (1kg),2288.1,30.0
+2025-03-01,Rivers,Garri (1kg),844.89,26.0
+2024-11-01,Kaduna,Eggs (crate),3836.38,14.0
+2023-04-01,Anambra,Tomatoes (basket),9857.81,21.0
+2024-06-01,Anambra,Beans (1kg),1504.33,12.0
+2025-08-01,Abuja FCT,Rice (1kg),1994.16,19.0
+2023-07-01,LAGOS,Garri (1kg),651.74,21.0
+2024-01-01,Kaduna,Eggs (crate),2854.62,10.0
+2025-11-01,Kaduna,Vegetable oil (1L),4765.27,13.0
+2025-11-01,Oyo,Eggs (crate),,26.0
+2023-12-01,Enugu,Tomatoes (basket),10979.64,25.0
+2025-04-01,Abuja FCT,Rice (1kg),1825.64,10.0
+2023-12-01,Kaduna,Tomatoes (basket),10732.48,25.0
+2025-11-01,Kano,Beans (1kg),2221.65,8.0
+2025-12-01,Kaduna,Garri (1kg),1276.85,30.0
+2023-02-01,Kaduna,Eggs (crate),2649.25,20.0
+2024-01-01,enugu,Eggs (crate),2960.27,15.0
+2024-12-01,Kano,Rice (1kg),1612.15,6.0
+2024-08-01,Enugu,Rice (1kg),1392.62,17.0
+2024-04-01,Kaduna,Vegetable oil (1L),3030.94,35.0
+2025-05-01,Oyo,Garri (1kg),948.68,6.0
+2024-01-01,Enugu,Beans (1kg),1484.87,9.0
+2023-12-01,Kano,Eggs (crate),2685.26,24.0
+2024-09-01,Oyo,Rice (1kg),1405.95,24.0
+2025-08-01,Enugu,Tomatoes (basket),16379.91,13.0
+2024-11-01,kaduna,Beans (1kg),1790.43,10.0
+2025-12-01,Oyo,Garri (1kg),1198.74,7.0
+2024-05-01,Anambra,Eggs (crate),3283.69,27.0
+2025-07-01,Rivers,Vegetable oil (1L),3740.48,32.0
+2025-11-01,Oyo,Rice (1kg),1915.68,20.0
+2023-03-01,Lagos,Tomatoes (basket),11166.38,36.0
+2025-10-01,Abuja FCT,Eggs (crate),5557.21,6.0
+2025-08-01,Anambra,Garri (1kg),957.53,9.0
+2023-09-01,Kano,Beans (1kg),1320.48,9.0
+2025-11-01,Abuja FCT,Rice (1kg),2438.0,36.0
+2023-02-01,LAGOS,Garri (1kg),505.67,10.0
+2024-06-01,Abuja FCT,Vegetable oil (1L),3124.39,22.0
+2025-01-01,Enugu,Eggs (crate),3895.27,37.0
+2025-10-01,Anambra,Rice (1kg),1941.96,21.0
+2025-03-01,Lagos,Garri (1kg),980.16,15.0
+2023-07-01,Enugu,Eggs (crate),2540.92,19.0
+2023-07-01,Kaduna,Eggs (crate),2559.15,18.0
+2025-07-01,Kano,Tomatoes (basket),16553.3,25.0
+2023-03-01,Kano,Beans (1kg),1060.82,6.0
+2024-05-01,Oyo,Tomatoes (basket),12581.96,32.0
+2024-06-01,Kano,Rice (1kg),1378.45,12.0
+2023-01-01,Kaduna,Vegetable oil (1L),1868.18,21.0
+2024-02-01,Abuja FCT,Tomatoes (basket),14622.35,34.0
+2025-12-01,Abuja FCT,Rice (1kg),2524.01,9.0
+2024-10-01,Abuja FCT,Beans (1kg),2206.1,22.0
+2025-02-01,Kano,Garri (1kg),910.31,15.0
+2024-09-01,Anambra,Tomatoes (basket),12200.83,17.0
+2024-07-01,Enugu,Eggs (crate),3386.43,23.0
+2024-07-01,Anambra,Vegetable oil (1L),2998.07,13.0
+2024-06-01,Kano,Garri (1kg),,12.0
+2024-12-01,Kano,Vegetable oil (1L),,15.0
+2025-01-01,Rivers,Rice (1kg),1646.91,23.0
+2025-05-01,Enugu,Beans (1kg),2273.12,10.0
+2023-02-01,Lagos,Tomatoes (basket),8949.3,18.0
+2025-11-01,Anambra,Garri (1kg),1015.63,18.0
+2024-04-01,Lagos,Eggs (crate),3173.54,23.0
+2025-10-01,Anambra,Vegetable oil (1L),4466.67,32.0
+2024-03-01,Abuja FCT,Eggs (crate),3342.47,6.0
+2025-04-01,Rivers,Vegetable oil (1L),3643.1,14.0
+2024-06-01,Enugu,Vegetable oil (1L),2621.43,14.0
+2023-08-01,Kaduna,Tomatoes (basket),7636.38,39.0
+2023-02-01,kano,Tomatoes (basket),8545.09,30.0
+2025-09-01,Kaduna,Garri (1kg),1102.35,5.0
+2025-09-01,Enugu,Garri (1kg),1033.7,24.0
+2023-06-01,Enugu,Garri (1kg),588.3,
+2024-11-01,oyo,Vegetable oil (1L),3116.46,26.0
+2024-01-01,Enugu,Rice (1kg),1228.1,37.0
+2024-08-01,Oyo,Garri (1kg),820.91,39.0
+2024-02-01,Anambra,Rice (1kg),1149.25,15.0
+2024-12-01,Lagos,Garri (1kg),975.65,36.0
+2025-11-01,Oyo,Tomatoes (basket),19025.49,37.0
+2024-11-01,abuja fct,Eggs (crate),3692.96,19.0
+2023-01-01,Lagos,Vegetable oil (1L),,32.0
+2025-08-01,Anambra,Beans (1kg),2288.1,30.0
+2023-05-01,abuja fct,Rice (1kg),1007.77,38.0
+2024-11-01,Anambra,Garri (1kg),862.39,34.0
+2024-01-01,Abuja FCT,Vegetable oil (1L),2761.0,12.0
+2025-07-01,Kaduna,Garri (1kg),1139.84,33.0
+2023-02-01,Kaduna,Tomatoes (basket),9222.45,38.0
+2024-01-01,Kano,Garri (1kg),₦700,20.0
+2023-09-01,Kaduna,Garri (1kg),571.83,23.0
+2024-01-01,Oyo,Beans (1kg),1465.74,15.0
+2024-08-01,Abuja FCT,Garri (1kg),756.58,37.0
+2025-09-01,Abuja FCT,Beans (1kg),,35.0
+2023-05-01,Lagos,Vegetable oil (1L),2325.66,32.0
+2023-02-01,Abuja FCT,Tomatoes (basket),10544.52,26.0
+2023-12-01,Kano,Rice (1kg),1243.68,24.0
+2024-08-01,Kano,Vegetable oil (1L),3097.34,32.0
+2023-08-01,Abuja FCT,Beans (1kg),1436.79,22.0
+2025-01-01,Rivers,Eggs (crate),3569.86,39.0
+2025-12-01,Kaduna,Beans (1kg),2643.07,6.0
+2023-11-01,Anambra,Garri (1kg),712.32,32.0
+2025-04-01,Kaduna,Tomatoes (basket),18845.83,37.0
+2024-03-01,Enugu,Rice (1kg),1294.72,17.0
+2023-09-01,Enugu,Tomatoes (basket),8607.55,21.0
+2024-10-01,Oyo,Vegetable oil (1L),2968.95,29.0
+2023-05-01,Oyo,Beans (1kg),1180.85,24.0
+2023-12-01,Abuja FCT,Tomatoes (basket),11286.68,19.0
+2024-07-01,Kaduna,Tomatoes (basket),10736.41,23.0
+2024-05-01,Oyo,Garri (1kg),753.65,39.0
+2024-03-01,Abuja FCT,Rice (1kg),1407.02,24.0
+2024-10-01,Anambra,Rice (1kg),1415.16,20.0
+2023-09-01,Kaduna,Rice (1kg),993.7,22.0
+2023-11-01,Lagos,Vegetable oil (1L),2385.23,11.0
+2023-07-01,Oyo,Tomatoes (basket),9067.64,31.0
+2025-08-01,Kaduna,Eggs (crate),4663.28,16.0
+2025-07-01,Kano,Beans (1kg),2169.88,18.0
+2025-02-01,Lagos,Garri (1kg),1058.42,31.0
+2023-04-01,Abuja FCT,Vegetable oil (1L),2065.94,19.0
+2025-03-01,Enugu,Garri (1kg),907.39,30.0
+2025-02-01,Enugu,Rice (1kg),1766.62,32.0
+2025-05-01,Rivers,Rice (1kg),1690.86,32.0
+2023-05-01,Oyo,Eggs (crate),2468.64,15.0
+2025-11-01,Kano,Vegetable oil (1L),3850.24,9.0
+2023-07-01,abuja fct,Beans (1kg),,35.0
+2023-06-01,Anambra,Tomatoes (basket),8203.55,32.0
+2025-02-01,Abuja FCT,Beans (1kg),2321.24,6.0
+2025-05-01,Kaduna,Eggs (crate),4566.74,10.0
+2025-04-01,Kano,Vegetable oil (1L),3683.57,34.0
+2023-05-01,Rivers,Beans (1kg),1275.71,37.0
+2025-02-01,Rivers,Beans (1kg),2041.46,38.0
+2025-12-01,Kano,Tomatoes (basket),17972.03,20.0
+2025-09-01,Oyo,Garri (1kg),975.24,5.0
+2025-12-01,Rivers,Vegetable oil (1L),,26.0
+2025-01-01,Enugu,Tomatoes (basket),,28.0
+2025-11-01,Lagos,Rice (1kg),2251.82,16.0
+2024-08-01,Abuja FCT,Vegetable oil (1L),9999999,5.0
+2025-12-01,LAGOS,Rice (1kg),2049.79,29.0
+2023-10-01,Rivers,Tomatoes (basket),,18.0
+2023-05-01,Anambra,Beans (1kg),1312.81,24.0
+2023-06-01,Enugu,Beans (1kg),1276.68,23.0
+2024-02-01,Kano,Vegetable oil (1L),2490.51,8.0
+2023-06-01,Lagos,Beans (1kg),1218.61,26.0
+2025-11-01,Lagos,Tomatoes (basket),20496.0,13.0
+2024-06-01,Kaduna,Rice (1kg),1318.13,16.0
+2023-03-01,Kano,Vegetable oil (1L),,14.0
+2024-02-01,Kano,Garri (1kg),660.89,6.0
+2024-11-01,Lagos,Beans (1kg),2139.72,7.0
+2023-07-01,Lagos,Tomatoes (basket),10361.83,24.0
+2025-02-01,Anambra,Tomatoes (basket),"₦15,581",
+2025-01-01,Rivers,Garri (1kg),946.94,20.0
+2023-12-01,Oyo,Tomatoes (basket),10637.22,10.0
+2023-09-01,Lagos,Vegetable oil (1L),2343.09,10.0
+2024-04-01,Oyo,Beans (1kg),1591.0,29.0
+2024-08-01,Oyo,Beans (1kg),1749.09,26.0
+2023-12-01,Rivers,Tomatoes (basket),9865.42,12.0
+2024-03-01,Anambra,Vegetable oil (1L),2212.11,13.0
+2023-05-01,Abuja FCT,Beans (1kg),1281.26,13.0
+2023-12-01,Anambra,Garri (1kg),658.1,35.0
+2025-10-01,Kaduna,Tomatoes (basket),16269.22,38.0
+2025-04-01,Rivers,Eggs (crate),4275.58,21.0
+2025-04-01,Abuja FCT,Vegetable oil (1L),3656.27,27.0
+2024-04-01,Abuja FCT,Rice (1kg),1322.68,36.0
+2025-01-01,Rivers,Beans (1kg),2005.34,10.0
+2023-02-01,Kaduna,Rice (1kg),887.09,15.0
+2023-10-01,Kaduna,Beans (1kg),1271.2,24.0
+2024-10-01,Lagos,Garri (1kg),960.59,39.0
+2024-04-01,Kano,Garri (1kg),756.9,13.0
+2023-03-01,Lagos,Beans (1kg),1284.42,37.0
+2023-08-01,Kano,Garri (1kg),565.58,30.0
+2023-05-01,Anambra,Tomatoes (basket),8861.54,5.0
+2024-07-01,Enugu,Beans (1kg),1878.04,
+2025-01-01,Rivers,Vegetable oil (1L),2902.5,37.0
+2025-06-01,Abuja FCT,Vegetable oil (1L),4096.36,15.0
+2023-11-01,Enugu,Vegetable oil (1L),2200.22,36.0
+2023-02-01,Rivers,Tomatoes (basket),8764.59,34.0
+2025-08-01,Kano,Beans (1kg),"₦2,435",35.0
+2024-11-01,Enugu,Beans (1kg),1827.14,38.0
+2025-04-01,Oyo,Vegetable oil (1L),3817.4,23.0
+2024-03-01,Rivers,Rice (1kg),1331.39,20.0
+2024-12-01,Oyo,Beans (1kg),1964.99,16.0
+2023-03-01,Oyo,Beans (1kg),1157.81,20.0
+2024-09-01,Abuja FCT,Eggs (crate),4070.72,37.0
+2025-09-01,Lagos,Eggs (crate),5674.19,20.0
+2024-09-01,Kaduna,Vegetable oil (1L),2986.79,27.0
+2023-02-01,Anambra,Tomatoes (basket),9030.03,39.0
+2024-03-01,Kano,Eggs (crate),3349.25,34.0
+2025-03-01,Lagos,Tomatoes (basket),16053.32,31.0
+2025-02-01,Anambra,Beans (1kg),2028.3,7.0
+2025-12-01,Lagos,Vegetable oil (1L),4352.3,29.0
+2023-10-01,Rivers,Beans (1kg),1369.53,22.0
+2023-10-01,Oyo,Vegetable oil (1L),2253.2,26.0
+2025-11-01,Rivers,Eggs (crate),5130.12,20.0
+2024-05-01,Lagos,Vegetable oil (1L),2433.69,39.0
+2024-10-01,Enugu,Vegetable oil (1L),2911.47,10.0
+2023-02-01,lagos,Beans (1kg),1289.76,10.0
+2025-12-01,Abuja FCT,Beans (1kg),3033.08,7.0
+2023-10-01,Anambra,Vegetable oil (1L),2199.15,19.0
+2024-12-01,Enugu,Garri (1kg),822.86,12.0
+2025-08-01,Kaduna,Garri (1kg),991.03,33.0
+2023-10-01,Oyo,Garri (1kg),557.49,11.0
+2023-04-01,Abuja FCT,Tomatoes (basket),10419.45,30.0
+2023-11-01,Oyo,Garri (1kg),543.97,
+2024-03-01,Anambra,Garri (1kg),721.9,5.0
+2023-04-01,Anambra,Eggs (crate),2598.9,13.0
+2023-03-01,Enugu,Vegetable oil (1L),2142.01,15.0
+2023-06-01,Abuja FCT,Eggs (crate),2491.18,18.0
+2024-06-01,Oyo,Vegetable oil (1L),2791.96,25.0
+2023-10-01,Kano,Garri (1kg),687.44,12.0
+2024-06-01,Enugu,Eggs (crate),3284.26,5.0
+2024-04-01,Kaduna,Tomatoes (basket),13150.06,33.0
+2024-09-01,Rivers,Vegetable oil (1L),3252.12,20.0
+2023-05-01,Lagos,Tomatoes (basket),10819.37,37.0
+2025-12-01,Oyo,Beans (1kg),2641.73,6.0
+2025-06-01,Abuja FCT,Beans (1kg),2207.3,7.0
+2024-01-01,Oyo,Garri (1kg),718.13,12.0
+2023-10-01,Anambra,Rice (1kg),1126.38,33.0
+2025-11-01,Rivers,Rice (1kg),1991.74,18.0
+2025-03-01,Abuja FCT,Rice (1kg),1569.45,21.0
+2023-07-01,Kano,Eggs (crate),2620.57,21.0
+2025-07-01,Enugu,Garri (1kg),996.76,16.0
+2023-06-01,Enugu,Rice (1kg),1014.8,30.0
+2025-11-01,Enugu,Garri (1kg),1214.58,16.0
+2023-01-01,Anambra,Beans (1kg),,19.0
+2024-05-01,anambra,Beans (1kg),1781.53,27.0
+2023-06-01,LAGOS,Beans (1kg),1258.39,26.0
+2023-04-01,Kaduna,Rice (1kg),988.28,
+2023-09-01,Kano,Garri (1kg),578.98,6.0
+2024-03-01,Rivers,Eggs (crate),3124.68,39.0
+2023-01-01,Anambra,Rice (1kg),876.93,7.0
+2023-12-01,Kano,Tomatoes (basket),10737.84,33.0
+2023-07-01,Oyo,Eggs (crate),2537.99,31.0
+2023-04-01,Enugu,Eggs (crate),2201.66,25.0
+2023-01-01,Anambra,Garri (1kg),480.14,19.0
+2025-04-01,Abuja FCT,Garri (1kg),1109.13,19.0
+2024-12-01,Kano,Tomatoes (basket),14646.84,20.0
+2024-07-01,Enugu,Garri (1kg),832.83,30.0
+2024-10-01,Enugu,Garri (1kg),821.11,28.0
+2024-02-01,Kano,Eggs (crate),3016.57,23.0
+2025-04-01,Anambra,Vegetable oil (1L),3739.54,18.0
+2023-10-01,Rivers,Eggs (crate),2569.06,11.0
+2025-04-01,Lagos,Vegetable oil (1L),,8.0
+2023-03-01,Enugu,Rice (1kg),963.47,21.0
+2025-12-01,Rivers,Garri (1kg),1257.5,14.0
+2023-05-01,Rivers,Tomatoes (basket),9841.53,34.0
+2023-05-01,Lagos,Eggs (crate),2708.8,27.0
+2024-08-01,Enugu,Vegetable oil (1L),,32.0
+2023-01-01,Kano,Garri (1kg),471.23,33.0
+2024-07-01,Lagos,Eggs (crate),3691.61,10.0
+2024-12-01,Abuja FCT,Eggs (crate),4262.07,7.0
+2025-03-01,Enugu,Rice (1kg),1666.49,5.0
+2023-03-01,Kaduna,Rice (1kg),932.86,38.0
+2023-01-01,Oyo,Eggs (crate),2230.65,
+2025-09-01,Anambra,Beans (1kg),,26.0
+2024-11-01,Enugu,Rice (1kg),1633.83,33.0
+2024-02-01,Abuja FCT,Beans (1kg),1704.56,7.0
+2023-03-01,Abuja FCT,Garri (1kg),651.67,14.0
+2024-07-01,Kano,Vegetable oil (1L),2649.01,28.0
+2025-07-01,Lagos,Eggs (crate),5049.36,36.0
+2023-03-01,Lagos,Garri (1kg),583.39,12.0
+2024-06-01,Abuja FCT,Garri (1kg),897.07,32.0
+2023-10-01,Anambra,Eggs (crate),,16.0
+2025-06-01,Lagos,Tomatoes (basket),19652.59,26.0
+2024-08-01,Oyo,Tomatoes (basket),,13.0
+2024-09-01,Rivers,Rice (1kg),1431.24,7.0
+2025-08-01,Anambra,Rice (1kg),1747.28,37.0
+2024-08-01,Kano,Garri (1kg),793.61,9.0
+2025-10-01,Kaduna,Eggs (crate),5273.97,14.0
+2023-07-01,Kano,Garri (1kg),588.83,21.0
+2025-08-01,Abuja FCT,Garri (1kg),1190.58,6.0
+2024-01-01,Kaduna,Beans (1kg),1380.44,9.0
+2025-03-01,Kaduna,Tomatoes (basket),15412.15,17.0
+2023-10-01,Oyo,Eggs (crate),2804.31,26.0
+2024-03-01,Lagos,Beans (1kg),1640.54,28.0
+2024-12-01,Lagos,Vegetable oil (1L),3958.09,30.0
+2024-06-01,Anambra,Garri (1kg),830.03,9.0
+2024-08-01,Lagos,Tomatoes (basket),13426.41,9.0
+2025-06-01,Anambra,Garri (1kg),1044.07,30.0
+2025-07-01,Oyo,Garri (1kg),1120.53,18.0
+2024-10-01,Kano,Eggs (crate),,14.0
+2025-06-01,Enugu,Garri (1kg),1114.69,22.0
+2023-12-01,Enugu,Garri (1kg),651.72,38.0
+2025-06-01,Rivers,Rice (1kg),,9.0
+2024-01-01,Anambra,Eggs (crate),3160.01,
+2024-10-01,Rivers,Eggs (crate),3404.58,6.0
+2024-08-01,Lagos,Eggs (crate),3527.25,35.0
+2023-10-01,Lagos,Rice (1kg),1269.2,15.0
+2025-04-01,Lagos,Vegetable oil (1L),,8.0
+2024-05-01,Rivers,Garri (1kg),767.88,35.0
+2025-04-01,Enugu,Garri (1kg),938.02,7.0
+2023-08-01,Lagos,Tomatoes (basket),9677.69,24.0
+2023-06-01,kaduna,Garri (1kg),601.81,16.0
+2024-05-01,Kaduna,Tomatoes (basket),12609.77,17.0
+2023-10-01,Abuja FCT,Rice (1kg),1238.67,19.0
+2025-05-01,Oyo,Rice (1kg),1879.75,6.0
+2025-07-01,Anambra,Garri (1kg),1033.71,6.0
+2025-05-01,Enugu,Garri (1kg),1000.43,23.0
+2024-09-01,Rivers,Eggs (crate),3620.19,26.0
+2024-10-01,Kaduna,Rice (1kg),1496.33,7.0
+2024-11-01,Lagos,Vegetable oil (1L),3382.12,15.0
+2024-03-01,Oyo,Vegetable oil (1L),2390.55,16.0
+2023-06-01,Rivers,Rice (1kg),,22.0
+2025-06-01,Enugu,Rice (1kg),1799.77,9.0
+2025-09-01,Oyo,Rice (1kg),1881.57,8.0
+2024-09-01,LAGOS,Beans (1kg),1781.98,17.0
+2023-09-01,Kano,Rice (1kg),1068.62,24.0
+2025-04-01,Anambra,Eggs (crate),4122.64,25.0
+2025-10-01,Lagos,Rice (1kg),2447.64,24.0
+2025-01-01,Oyo,Beans (1kg),2156.83,31.0
+2023-08-01,Kano,Eggs (crate),2545.97,20.0
+2025-07-01,Anambra,Rice (1kg),2050.46,15.0
+2024-07-01,Anambra,Garri (1kg),815.48,6.0
+2024-11-01,Rivers,Tomatoes (basket),13619.08,38.0
+2023-01-01,Kaduna,Eggs (crate),2137.91,29.0
+2025-08-01,Oyo,Eggs (crate),4563.88,12.0
+2023-02-01,Lagos,Rice (1kg),1044.02,10.0
+2023-11-01,Oyo,Tomatoes (basket),9304.11,34.0
+2024-03-01,Anambra,Eggs (crate),3119.82,22.0
+2023-09-01,Abuja FCT,Vegetable oil (1L),2264.71,29.0
+2024-01-01,Kano,Beans (1kg),1566.91,17.0
+2023-06-01,Oyo,Garri (1kg),527.78,19.0
+2025-11-01,Enugu,Tomatoes (basket),18129.64,5.0
+2024-07-01,Anambra,Rice (1kg),1430.98,13.0
+2024-11-01,Kaduna,Tomatoes (basket),12990.04,9.0
+2024-06-01,Lagos,Vegetable oil (1L),3020.08,38.0
+2025-03-01,Kano,Rice (1kg),1735.58,15.0
+2023-04-01,Anambra,Rice (1kg),971.11,30.0
+2024-02-01,Lagos,Eggs (crate),3690.55,16.0
+2024-08-01,Abuja FCT,Tomatoes (basket),12263.15,23.0
+2024-03-01,Abuja FCT,Tomatoes (basket),14479.49,14.0
+2024-06-01,Lagos,Beans (1kg),1947.54,37.0
+2023-04-01,Oyo,Vegetable oil (1L),1972.83,18.0
+2023-10-01,abuja fct,Tomatoes (basket),9403.02,8.0
+2024-09-01,Anambra,Rice (1kg),1438.51,15.0
+2025-09-01,Kaduna,Eggs (crate),5067.27,21.0
+2023-07-01,Oyo,Rice (1kg),1027.86,32.0
+2023-10-01,Enugu,Vegetable oil (1L),2290.87,13.0
+2024-11-01,Enugu,Garri (1kg),827.71,14.0
+2023-10-01,LAGOS,Rice (1kg),1096.87,10.0
+2023-12-01,Enugu,Rice (1kg),1242.56,17.0
+2024-09-01,Kaduna,Eggs (crate),3779.98,26.0
+2025-06-01,Oyo,Beans (1kg),2270.7,32.0
+2025-11-01,Abuja FCT,Vegetable oil (1L),4468.5,33.0
+2024-05-01,Kano,Vegetable oil (1L),2908.98,8.0
+2023-07-01,Anambra,Beans (1kg),1294.72,33.0
+2023-11-01,Lagos,Eggs (crate),,8.0
+2024-12-01,LAGOS,Vegetable oil (1L),3397.17,38.0
+2023-06-01,Anambra,Eggs (crate),2476.24,28.0
+2024-04-01,Enugu,Garri (1kg),679.29,
+2025-05-01,Kaduna,Vegetable oil (1L),3426.78,17.0
+2025-08-01,Oyo,Vegetable oil (1L),4169.53,15.0
+2023-04-01,Enugu,Tomatoes (basket),9982.91,24.0
+2023-01-01,Kano,Tomatoes (basket),8454.6,10.0
+2025-06-01,Kaduna,Tomatoes (basket),14667.03,10.0
+2025-08-01,Kano,Garri (1kg),1100.37,31.0
+2024-12-01,Lagos,Rice (1kg),1804.12,19.0
+2023-09-01,Anambra,Rice (1kg),1214.83,34.0
+2023-10-01,Anambra,Tomatoes (basket),9409.89,18.0
+2024-02-01,Enugu,Vegetable oil (1L),2362.19,34.0
+2025-02-01,Kaduna,Garri (1kg),987.09,18.0
+2025-08-01,Kaduna,Beans (1kg),2185.58,18.0
+2025-09-01,Kano,Tomatoes (basket),16891.75,18.0
+2025-09-01,Anambra,Beans (1kg),,26.0
+2024-04-01,Kano,Tomatoes (basket),12025.8,24.0
+2025-12-01,Kano,Rice (1kg),2153.71,27.0
+2024-11-01,Anambra,Vegetable oil (1L),2956.18,34.0
+2023-08-01,Lagos,Rice (1kg),1051.47,39.0
+2024-01-01,Kaduna,Tomatoes (basket),10779.99,38.0
+2023-12-01,Kaduna,Beans (1kg),"₦1,311",21.0
+2023-10-01,Abuja FCT,Vegetable oil (1L),2424.34,5.0
+2023-06-01,Kano,Vegetable oil (1L),2083.38,21.0
+2024-12-01,Kaduna,Eggs (crate),3704.32,28.0
+2023-11-01,LAGOS,Vegetable oil (1L),2741.91,35.0
+2025-08-01,Enugu,Rice (1kg),1835.98,39.0
+2023-01-01,Rivers,Eggs (crate),2349.02,17.0
+2025-06-01,Anambra,Tomatoes (basket),17347.99,33.0
+2024-11-01,Oyo,Tomatoes (basket),12420.13,25.0
+2024-09-01,Lagos,Eggs (crate),,35.0
+2024-06-01,Abuja FCT,Eggs (crate),3899.16,19.0
+2023-05-01,Kaduna,Eggs (crate),2505.62,27.0
+2025-04-01,Kano,Eggs (crate),3756.86,25.0
+2023-03-01,Kano,Rice (1kg),955.96,18.0
+2023-02-01,Kano,Eggs (crate),2368.69,14.0
+2023-10-01,Kano,Vegetable oil (1L),2249.58,36.0
+2025-10-01,Abuja FCT,Garri (1kg),1259.09,12.0
+2023-11-01,Abuja FCT,Garri (1kg),752.94,25.0
+2024-11-01,Kano,Tomatoes (basket),13870.81,37.0
+2024-02-01,Kaduna,Beans (1kg),1426.73,31.0
+2023-10-01,Oyo,Beans (1kg),"₦1,416",14.0
+2024-11-01,Enugu,Vegetable oil (1L),3189.02,9.0
+2023-04-01,Oyo,Tomatoes (basket),8045.83,32.0
+2023-08-01,Anambra,Eggs (crate),2675.53,7.0
+2024-01-01,Enugu,Tomatoes (basket),11851.66,8.0
+2025-03-01,Anambra,Rice (1kg),1680.68,28.0
+2025-02-01,Kano,Vegetable oil (1L),3438.76,25.0
+2023-12-01,Oyo,Eggs (crate),3077.92,37.0
+2023-04-01,Kano,Eggs (crate),2424.01,11.0
+2023-08-01,Lagos,Garri (1kg),703.77,12.0
+2023-02-01,Kaduna,Beans (1kg),1034.37,37.0
+2024-08-01,Lagos,Vegetable oil (1L),,6.0
+2024-12-01,Rivers,Eggs (crate),3539.32,22.0
+2024-08-01,Rivers,Beans (1kg),,23.0
+2024-12-01,Abuja FCT,Garri (1kg),1070.83,23.0
+2024-08-01,Kaduna,Beans (1kg),1701.77,26.0
+2023-04-01,Abuja FCT,Vegetable oil (1L),2065.94,19.0
+2025-08-01,Kano,Rice (1kg),1892.55,36.0
+2023-09-01,Anambra,Eggs (crate),2818.0,17.0
+2025-02-01,Kaduna,Tomatoes (basket),15924.78,36.0
+2023-04-01,Abuja FCT,Eggs (crate),2496.79,
+2024-01-01,Abuja FCT,Garri (1kg),782.9,8.0
+2025-10-01,Anambra,Garri (1kg),943.78,34.0
+2023-10-01,Enugu,Garri (1kg),606.4,28.0
+2024-04-01,Oyo,Garri (1kg),734.09,25.0
+2024-05-01,Lagos,Rice (1kg),1505.36,17.0
+2023-08-01,Abuja FCT,Eggs (crate),2786.4,39.0
+2025-12-01,Abuja FCT,Eggs (crate),5563.2,39.0
+2025-05-01,Oyo,Beans (1kg),2125.64,34.0
+2023-04-01,LAGOS,Eggs (crate),2764.43,33.0
+2024-08-01,Lagos,Beans (1kg),1792.79,34.0
+2025-10-01,Enugu,Vegetable oil (1L),4153.11,31.0
+2024-11-01,Lagos,Eggs (crate),4174.29,37.0
+2025-10-01,LAGOS,Rice (1kg),"₦1,872",9.0
+2023-04-01,Rivers,Vegetable oil (1L),1735.5,34.0
+2023-03-01,Rivers,Vegetable oil (1L),1795.45,31.0
+2023-11-01,Kano,Tomatoes (basket),9288.43,20.0
+2024-11-01,Abuja FCT,Vegetable oil (1L),,6.0
+2023-11-01,Rivers,Vegetable oil (1L),2435.16,26.0
+2023-10-01,Rivers,Vegetable oil (1L),2253.92,9.0
+2025-08-01,Abuja FCT,Tomatoes (basket),15735.61,8.0
+2025-06-01,Kano,Eggs (crate),4983.54,37.0
+2025-09-01,Abuja FCT,Vegetable oil (1L),4423.83,26.0
+2023-06-01,Kaduna,Eggs (crate),2502.77,22.0
+2024-12-01,Lagos,Tomatoes (basket),15443.28,14.0
+2025-11-01,Lagos,Beans (1kg),3070.5,36.0
+2024-04-01,Kaduna,Garri (1kg),735.88,12.0
+2025-08-01,Abuja FCT,Eggs (crate),5475.23,37.0
+2024-08-01,Kaduna,Vegetable oil (1L),2920.38,22.0
+2023-02-01,Enugu,Tomatoes (basket),8719.72,14.0
+2024-12-01,Oyo,Garri (1kg),856.18,23.0
+2024-03-01,Abuja FCT,Vegetable oil (1L),2897.32,39.0
+2023-09-01,Oyo,Eggs (crate),2678.54,8.0
+2023-06-01,Lagos,Eggs (crate),2630.52,24.0
+2024-02-01,Lagos,Vegetable oil (1L),2699.29,6.0
+2024-02-01,Oyo,Rice (1kg),1254.36,8.0
+2025-04-01,Kaduna,Rice (1kg),1660.12,34.0
+2023-05-01,Abuja FCT,Tomatoes (basket),11116.59,32.0
+2023-10-01,Abuja FCT,Eggs (crate),2961.33,12.0
+2023-11-01,Kaduna,Beans (1kg),1350.98,23.0
+2023-03-01,Abuja FCT,Tomatoes (basket),11496.23,13.0
+2025-12-01,Enugu,Eggs (crate),4937.43,38.0
+2023-05-01,Kano,Vegetable oil (1L),1860.67,14.0
+2025-06-01,anambra,Eggs (crate),4277.01,7.0
+2025-07-01,Kaduna,Tomatoes (basket),17326.18,17.0
+2025-04-01,Oyo,Beans (1kg),2184.23,35.0
+2024-03-01,Rivers,Vegetable oil (1L),2459.49,33.0
+2025-11-01,Kano,Garri (1kg),1194.56,
+2023-07-01,LAGOS,Eggs (crate),2608.33,27.0
+2025-06-01,Kano,Tomatoes (basket),16382.05,21.0
+2024-02-01,Oyo,Beans (1kg),1541.17,39.0
+2023-02-01,rivers,Eggs (crate),2471.72,8.0
+2024-01-01,Abuja FCT,Rice (1kg),1279.03,29.0
+2025-07-01,Kaduna,Vegetable oil (1L),4317.65,10.0
+2025-05-01,LAGOS,Rice (1kg),1747.14,20.0
+2024-04-01,Anambra,Vegetable oil (1L),2814.76,28.0
+2023-06-01,Kaduna,Rice (1kg),993.4,25.0
+2023-01-01,Rivers,Tomatoes (basket),9569.67,21.0
+2023-02-01,Enugu,Vegetable oil (1L),"₦1,862",5.0
+2023-04-01,LAGOS,Eggs (crate),2321.62,13.0
+2025-10-01,Lagos,Tomatoes (basket),18488.48,19.0
+2024-12-01,Oyo,Garri (1kg),856.18,23.0
+2024-09-01,Enugu,Rice (1kg),1259.17,23.0
+2024-10-01,Kano,Rice (1kg),1431.84,12.0
+2023-12-01,Rivers,Vegetable oil (1L),2356.71,24.0
+2023-12-01,LAGOS,Beans (1kg),1547.24,38.0
+2024-04-01,Enugu,Eggs (crate),3137.91,29.0
+2023-12-01,Anambra,Rice (1kg),1063.61,16.0
+2024-04-01,Anambra,Eggs (crate),2896.67,35.0
+2025-01-01,Abuja FCT,Vegetable oil (1L),3432.1,24.0
+2023-05-01,Oyo,Vegetable oil (1L),1892.19,5.0
+2025-07-01,Abuja FCT,Garri (1kg),1124.41,33.0
+2025-07-01,Lagos,Beans (1kg),2293.16,39.0
+2024-02-01,Kaduna,Rice (1kg),1221.71,12.0
+2024-01-01,Enugu,Garri (1kg),655.97,20.0
+2023-05-01,Anambra,Garri (1kg),532.22,27.0
+2025-08-01,Lagos,Vegetable oil (1L),3930.2,12.0
+2025-04-01,Lagos,Garri (1kg),1165.77,16.0
+2025-06-01,Kano,Vegetable oil (1L),3305.28,33.0
+2025-01-01,Enugu,Garri (1kg),927.28,17.0
+2024-02-01,Enugu,Tomatoes (basket),11209.61,14.0
+2025-12-01,Kano,Garri (1kg),1181.48,5.0
+2025-10-01,Kano,Beans (1kg),2494.37,37.0
+2024-12-01,Rivers,Beans (1kg),1959.62,21.0
+2023-01-01,Rivers,Rice (1kg),880.98,17.0
+2023-04-01,Enugu,Garri (1kg),594.79,21.0
+2025-12-01,Kaduna,Rice (1kg),2027.55,32.0
+2024-02-01,Lagos,Beans (1kg),1569.06,22.0
+2024-08-01,Rivers,Vegetable oil (1L),3188.05,39.0
+2025-11-01,Anambra,Tomatoes (basket),17831.11,38.0
+2025-03-01,Abuja FCT,Garri (1kg),1166.53,24.0
+2025-05-01,Rivers,Eggs (crate),5078.44,11.0
+2023-01-01,Enugu,Tomatoes (basket),8841.87,27.0
+2024-07-01,Rivers,Eggs (crate),3171.35,28.0
+2025-12-01,Rivers,Eggs (crate),5082.69,29.0
+2024-04-01,Rivers,Vegetable oil (1L),2575.19,14.0
+2025-06-01,Enugu,Tomatoes (basket),16416.5,36.0
+2025-10-01,Enugu,Garri (1kg),1166.28,28.0
+2024-05-01,Kaduna,Vegetable oil (1L),2638.54,19.0
+2025-08-01,Lagos,Beans (1kg),2369.63,31.0
+2024-07-01,LAGOS,Tomatoes (basket),11827.1,15.0
+2024-11-01,Rivers,Garri (1kg),799.2,37.0
+2024-07-01,Enugu,Vegetable oil (1L),2892.97,11.0
+2023-02-01,Abuja FCT,Rice (1kg),912.79,28.0
+2024-02-01,Kaduna,Eggs (crate),2685.51,26.0
+2023-12-01,Rivers,Garri (1kg),672.1,33.0
+2023-02-01,Anambra,Rice (1kg),1040.31,37.0
+2024-07-01,Kaduna,Vegetable oil (1L),2871.05,27.0
+2023-09-01,Enugu,Garri (1kg),567.53,
+2025-05-01,Oyo,Tomatoes (basket),17021.29,35.0
+2023-09-01,Rivers,Eggs (crate),2534.04,15.0
+2025-11-01,Oyo,Vegetable oil (1L),4232.42,26.0
+2025-05-01,Anambra,Vegetable oil (1L),4070.35,38.0
+2024-03-01,Enugu,Rice (1kg),1294.72,17.0
+2025-01-01,Kaduna,Tomatoes (basket),15436.96,14.0
+2023-08-01,Oyo,Garri (1kg),,25.0
+2024-10-01,Kano,Tomatoes (basket),12580.12,38.0
+2024-12-01,Rivers,Vegetable oil (1L),3201.06,35.0
+2023-11-01,Lagos,Tomatoes (basket),9358.24,18.0
+2023-03-01,Rivers,Tomatoes (basket),8255.63,5.0
+2025-07-01,Rivers,Garri (1kg),1005.71,27.0
+2024-11-01,Abuja FCT,Tomatoes (basket),13978.78,19.0
+2023-10-01,Oyo,Tomatoes (basket),9521.59,5.0
+2024-05-01,Abuja FCT,Eggs (crate),3902.62,30.0
+2025-08-01,Anambra,Tomatoes (basket),16124.54,12.0
+2024-10-01,Enugu,Eggs (crate),3459.08,35.0
+2023-01-01,Lagos,Rice (1kg),928.22,20.0
+2024-09-01,Rivers,Tomatoes (basket),12296.67,15.0
+2025-06-01,Kano,Beans (1kg),2359.76,18.0
+2025-05-01,LAGOS,Eggs (crate),3814.47,16.0
+2025-03-01,Lagos,Rice (1kg),1797.24,15.0
+2023-07-01,Anambra,Garri (1kg),565.1,30.0
+2024-04-01,Rivers,Eggs (crate),2902.35,20.0
+2023-06-01,Oyo,Eggs (crate),2654.27,8.0
+2025-05-01,Kaduna,Garri (1kg),988.99,21.0
+2025-12-01,Anambra,Tomatoes (basket),18059.55,5.0
+2025-11-01,Oyo,Beans (1kg),2527.75,28.0
+2023-01-01,Anambra,Eggs (crate),2264.28,30.0
+2024-06-01,Kaduna,Garri (1kg),783.57,17.0
+2025-02-01,Rivers,Rice (1kg),1482.09,32.0
+2025-01-01,Abuja FCT,Beans (1kg),2353.9,23.0
+2025-06-01,Enugu,Eggs (crate),4247.76,38.0
+2023-03-01,Kano,Garri (1kg),₦520,9.0
+2025-04-01,Rivers,Beans (1kg),2017.91,38.0
+2024-01-01,Rivers,Vegetable oil (1L),2220.75,29.0
+2024-05-01,Lagos,Tomatoes (basket),"₦14,089",12.0
+2025-04-01,Oyo,Tomatoes (basket),,11.0
+2024-07-01,Kano,Garri (1kg),773.01,11.0
+2023-02-01,Enugu,Rice (1kg),804.49,37.0
+2025-01-01,LAGOS,Garri (1kg),936.97,37.0
+2024-12-01,Abuja FCT,Tomatoes (basket),15240.65,10.0
+2025-07-01,Anambra,Tomatoes (basket),16255.12,23.0
+2024-09-01,Lagos,Garri (1kg),962.2,6.0
+2025-04-01,Anambra,Beans (1kg),1837.62,24.0
+2024-07-01,Oyo,Rice (1kg),1217.21,5.0
+2023-09-01,LAGOS,Rice (1kg),1083.33,32.0
+2025-05-01,Kano,Beans (1kg),2193.93,23.0
+2025-07-01,Abuja FCT,Eggs (crate),5070.05,29.0
+2023-03-01,Abuja FCT,Garri (1kg),651.67,14.0
+2025-08-01,Anambra,Eggs (crate),4608.67,27.0
+2025-10-01,Abuja FCT,Tomatoes (basket),17089.39,26.0
+2024-11-01,Anambra,Tomatoes (basket),12721.05,23.0
+2024-07-01,Oyo,Eggs (crate),2948.61,8.0
+2023-05-01,Kaduna,Garri (1kg),575.15,14.0
+2025-10-01,Lagos,Eggs (crate),5054.02,25.0
+2023-03-01,LAGOS,Eggs (crate),2256.65,15.0
+2023-03-01,Anambra,Tomatoes (basket),,33.0
+2025-02-01,Enugu,Vegetable oil (1L),3039.65,25.0
+2024-01-01,Rivers,Garri (1kg),690.1,
+2024-03-01,LAGOS,Eggs (crate),3391.44,37.0
+2023-02-01,Rivers,Tomatoes (basket),8764.59,34.0
+2023-03-01,Lagos,Vegetable oil (1L),2028.95,19.0
+2023-01-01,Enugu,Beans (1kg),1163.91,9.0
+2025-12-01,Lagos,Tomatoes (basket),20759.11,38.0
+2023-04-01,rivers,Garri (1kg),502.51,8.0
+2025-08-01,Kaduna,Rice (1kg),1829.96,20.0
+2025-05-01,Enugu,Eggs (crate),4160.05,11.0
+2025-01-01,Kaduna,Eggs (crate),3786.02,16.0
+2024-01-01,Lagos,Beans (1kg),1421.5,31.0
+2023-02-01,LAGOS,Garri (1kg),494.23,21.0
+2025-07-01,Oyo,Beans (1kg),2170.79,18.0
+2023-05-01,Anambra,Eggs (crate),2485.62,7.0
+2025-06-01,Lagos,Vegetable oil (1L),4271.97,16.0
+2024-11-01,Rivers,Rice (1kg),1447.74,29.0
+2024-08-01,Lagos,Garri (1kg),886.96,26.0
+2024-09-01,Rivers,Garri (1kg),788.88,8.0
+2025-07-01,Kano,Garri (1kg),1100.84,30.0
+2024-09-01,Anambra,Garri (1kg),819.28,31.0
+2023-04-01,enugu,Rice (1kg),1003.08,34.0
+2023-04-01,Kano,Beans (1kg),1184.59,18.0
+2024-05-01,Anambra,Vegetable oil (1L),2907.34,20.0
+2024-07-01,Lagos,Garri (1kg),886.18,12.0
+2025-06-01,Lagos,Garri (1kg),1158.24,33.0
+2024-02-01,Enugu,Garri (1kg),695.4,31.0
+2025-09-01,Anambra,Rice (1kg),2052.45,27.0
+2025-03-01,Kaduna,Rice (1kg),1738.68,25.0
+2024-11-01,Kano,Beans (1kg),1951.66,36.0
+2025-10-01,Rivers,Eggs (crate),,33.0
+2025-11-01,Rivers,Tomatoes (basket),17377.3,15.0
+2025-05-01,Anambra,Rice (1kg),1796.6,6.0
+2024-04-01,kano,Beans (1kg),1393.88,25.0
+2025-05-01,Abuja FCT,Garri (1kg),1105.13,32.0
+2024-03-01,Anambra,Rice (1kg),1224.1,39.0
+2025-11-01,Rivers,Vegetable oil (1L),4159.89,11.0
+2025-05-01,Rivers,Vegetable oil (1L),3753.18,23.0
+2023-11-01,Kano,Eggs (crate),2938.57,14.0
+2024-08-01,Kano,Eggs (crate),3435.65,13.0
+2023-08-01,Lagos,Tomatoes (basket),9677.69,24.0
+2024-05-01,Oyo,Eggs (crate),3513.0,9.0
+2025-01-01,Kaduna,Vegetable oil (1L),3406.62,31.0
+2025-07-01,Oyo,Rice (1kg),1883.0,30.0
+2024-10-01,Kano,Garri (1kg),795.65,15.0
+2023-08-01,Abuja FCT,Tomatoes (basket),8414.09,23.0
+2024-01-01,Lagos,Eggs (crate),3349.37,39.0
+2025-12-01,Anambra,Rice (1kg),2270.78,29.0
+2023-05-01,Abuja FCT,Garri (1kg),,9.0
+2023-02-01,Anambra,Beans (1kg),1184.22,38.0
+2023-10-01,Rivers,Rice (1kg),1150.75,32.0
+2024-10-01,Rivers,Rice (1kg),1531.54,19.0
+2024-11-01,Oyo,Rice (1kg),1469.17,23.0
+2024-06-01,Lagos,Eggs (crate),"₦3,382",23.0
+2023-02-01,kano,Garri (1kg),501.54,29.0
+2023-05-01,Oyo,Garri (1kg),498.85,5.0
+2023-09-01,Lagos,Rice (1kg),1194.14,24.0
+2024-02-01,Kano,Beans (1kg),1435.01,10.0
+2024-06-01,Rivers,Garri (1kg),766.04,
+2023-12-01,Kaduna,Rice (1kg),1080.49,7.0
+2025-03-01,Anambra,Tomatoes (basket),17455.15,19.0
+2023-04-01,Rivers,Eggs (crate),,13.0
+2024-01-01,Rivers,Tomatoes (basket),11479.69,31.0
+2024-01-01,LAGOS,Beans (1kg),1527.54,27.0
+2023-10-01,Enugu,Eggs (crate),2440.57,12.0
+2025-10-01,Enugu,Rice (1kg),1983.09,13.0
+2024-10-01,Kaduna,Beans (1kg),1891.15,23.0
+2024-09-01,Kaduna,Tomatoes (basket),11741.37,22.0
+2024-09-01,Enugu,Garri (1kg),741.05,25.0
+2024-02-01,Oyo,Vegetable oil (1L),2700.61,27.0
+2023-02-01,Anambra,Garri (1kg),524.34,16.0
+2025-09-01,Anambra,Tomatoes (basket),16246.3,29.0
+2025-12-01,Kano,Vegetable oil (1L),4323.25,39.0
+2025-06-01,Rivers,Beans (1kg),2506.73,30.0
+2023-04-01,Abuja FCT,Beans (1kg),1361.74,26.0
+2023-08-01,Kano,Tomatoes (basket),8644.78,30.0
+2025-02-01,Enugu,Tomatoes (basket),16276.55,24.0
+2025-07-01,Rivers,Tomatoes (basket),15973.84,33.0
+2024-12-01,Enugu,Beans (1kg),2017.99,14.0
+2023-05-01,Kaduna,Beans (1kg),1218.15,
+2024-04-01,Rivers,Garri (1kg),694.82,7.0
+2025-04-01,Enugu,Vegetable oil (1L),3093.55,22.0
+2023-12-01,Lagos,Rice (1kg),1389.79,20.0
+2025-08-01,Rivers,Rice (1kg),1959.49,37.0
+2023-02-01,Abuja FCT,Garri (1kg),623.55,28.0
+2025-04-01,Kaduna,Eggs (crate),4296.12,7.0
+2024-11-01,Kano,Eggs (crate),3715.35,26.0
+2024-11-01,Anambra,Beans (1kg),1913.12,
+2024-05-01,Oyo,Vegetable oil (1L),3029.6,12.0
+2025-02-01,Kaduna,Beans (1kg),2017.7,5.0
+2023-10-01,Anambra,Beans (1kg),1384.55,30.0
+2024-02-01,Oyo,Eggs (crate),2774.76,26.0
+2023-03-01,LAGOS,Tomatoes (basket),8813.53,13.0
+2024-06-01,Abuja FCT,Beans (1kg),1820.35,22.0
+2023-12-01,Oyo,Beans (1kg),1446.29,39.0
+2024-09-01,Kano,Garri (1kg),824.78,19.0
+2024-11-01,Kano,Rice (1kg),1505.74,11.0
+2024-07-01,Abuja FCT,Vegetable oil (1L),3186.72,33.0
+2024-08-01,Anambra,Beans (1kg),1696.93,39.0
+2023-07-01,Rivers,Garri (1kg),619.78,30.0
